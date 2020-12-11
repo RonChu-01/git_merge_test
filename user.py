@@ -5,6 +5,6 @@
 def say_hello():
     """ 测试方法 """
 
-    name = "hello world!"
+    name = "hello!"
 
     age = 18
